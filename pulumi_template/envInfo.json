@@ -1,0 +1,18 @@
+{
+    "name": "pulumi_template",
+    "propertyId": 734203,
+    "propertyName": "pulumi_template",
+    "groupId": 201328,
+    "isSecure": false,
+    "latestVersionInfo": {
+        "propertyVersion": 1,
+        "updatedByUser": "jgrinwis",
+        "updatedDate": "2021-08-19T14:36:52Z",
+        "productionStatus": "INACTIVE",
+        "stagingStatus": "INACTIVE",
+        "etag": "1f4effb6311b5feca1f9fa8de1c510cf0db7b68e",
+        "productId": "prd_Fresca",
+        "ruleFormat": "latest",
+        "note": "ION configuration template with pre-configured cpcode."
+    }
+}

@@ -1,0 +1,6 @@
+name: property-pulumi
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: A pulumi delivery configuration to be used by pulumi

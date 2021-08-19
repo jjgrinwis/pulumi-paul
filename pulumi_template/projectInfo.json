@@ -1,0 +1,11 @@
+{
+    "productId": "Fresca",
+    "contractId": "P-31YPZJ9",
+    "groupId": 201328,
+    "version": "0.7.7-RELEASE",
+    "isSecure": false,
+    "edgeGridConfig": {
+        "section": "pulumi-paul"
+    },
+    "name": "pulumi_template"
+}

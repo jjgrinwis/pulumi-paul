@@ -1,0 +1,3 @@
+config:
+  akamai:propertySection: pulumi-paul
+  property-pulumi:group_name: pulumi
